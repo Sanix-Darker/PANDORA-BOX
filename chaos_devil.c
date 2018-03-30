@@ -1,3 +1,6 @@
+/**
+ * Author: Sanix Darker
+ */
 // Randomly moves the window round. Only Ctrl+Alt+Del will work here.
 
 #include <windows.h>
